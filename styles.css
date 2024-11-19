@@ -1,3 +1,16 @@
 h1 {
 	color: red;
 }
+p {
+	color: blue;
+}
+.pacifico {
+	font-family: "Pacifico", cursive;
+}
+.moul {
+	font-family: "Moul", serif;
+}
+.qartuli {
+	font-family: "ALKDots", sans-serif;
+	color: red;
+}
