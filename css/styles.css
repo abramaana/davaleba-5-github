@@ -1,0 +1,119 @@
+header {
+  vertical-align: middle;
+}
+.img {
+  display: inline-block;
+}
+ul {
+  padding: 0;
+  display: inline-block;
+}
+
+li {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.navigation ul {
+    display: inline-block;
+}
+
+.nav-li {
+    font-size: 24px;
+    color: #8D81FF; 
+    padding: 30px; 
+}
+
+.nav-li:hover {
+    color: #4E6FAE; 
+}
+
+.active {
+    color: #4E6FAE !important;
+}
+
+body {
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #5012D5;
+    color: white;
+    padding: 20px;
+    padding-left: 20px; 
+}
+
+header img {
+    max-width: 200px;
+    margin-bottom: 10px;
+}
+
+h1, h2, h3 {
+    font-size: 2em;
+    color: #333;
+}
+
+h1 {
+    color: #5012D5;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #5012D5;
+    color: white;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    max-width: 1200px;
+    margin-left: 200px;
+    margin-right: 20px; 
+    text-align: left;
+}
+
+.date {
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    font-size: 24px;
+    line-height: 50px;
+    color: #84FF81;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.description{
+  display: inline-block;
+  width: 400px;
+  vertical-align: middle;
+}
+.img2 {
+  width: 200px;
+}
+.section {
+  width: 250px;
+  display: inline-block;
+  
+  vertical-align: middle;
+}
+.align {
+  display: inline-block;
+  width: 350px;
+}
+section {
+    margin-bottom: 20px;
+}
+img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+p {
+    font-family: "ALK Tall Mtavruli", sans-serif;
+}
